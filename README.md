@@ -43,5 +43,5 @@ My work centers on transforming raw data into insights that support strategic an
 ## 📫 Contact  
 
 - **GitHub:** [github.com/icefloqx](https://github.com/Icefloqx)  
-- **LinkedIn:** [linkedin.com/in/brian-gichuki-icefloqx]
+- **LinkedIn:** [www.linkedin.com/in/brian-gichuki-icefloqx]
 - **Email:** [icefloqxbrian@gmail.com]
