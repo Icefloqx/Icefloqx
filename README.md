@@ -1,4 +1,4 @@
-# icefloqx | Data & Machine Learning Developer  
+# Icefloqx | Data & Machine Learning Developer  
 
 I’m a data-focused developer skilled in **Python**, **Machine Learning**, **SQL**, and **Statistical Modelling**, with a strong foundation in **data analysis**, **visualization**, and **ETL workflows**.  
 My work centers on transforming raw data into insights that support strategic and technical decision-making.
@@ -8,16 +8,15 @@ My work centers on transforming raw data into insights that support strategic an
 ## 🧩 Core Skills  
 
 - **Programming & Scripting:** Python, SQL  
-- **Data Analysis & Modelling:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
-- **Visualization & Reporting:** Power BI, Matplotlib, Seaborn, Plotly  
-- **Statistical Modelling:** Regression, Time Series, Classification, Clustering  
-- **Databases & Data Engineering:** MySQL, PostgreSQL, MongoDB, ETL automation  
+- **Data Analysis & Modelling:** Pandas, NumPy, Scikit-learn, TensorFlow 
+- **Visualization & Reporting:** Power BI, Matplotlib, Seaborn
+- **Statistical Modelling:** Regression, Classification, Clustering  
+- **Databases & Data Engineering:** MySQL, PostgreSQL, MongoDB 
 
 ---
 
 ## 💡 Experience & Interests  
-
-- Building **end-to-end data pipelines** for analytics and reporting  
+ 
 - Developing **machine learning models** for prediction and classification tasks  
 - Designing **interactive dashboards** that communicate data insights effectively  
 - Applying **statistical methods** to extract patterns and improve decision-making  
@@ -28,7 +27,9 @@ My work centers on transforming raw data into insights that support strategic an
 
 - **Africa Energy Data Pipeline** — Automated ETL system for energy datasets (2000–2024) using Playwright, Python, and MongoDB.  
 - **Machine Learning Portfolio** — Predictive and classification models across energy, finance, and environmental domains.  
-- **Power BI Dashboards** — Interactive reports for trend analysis and business intelligence storytelling.  
+- **Power BI Dashboards** — Interactive reports for trend analysis and business intelligence storytelling.
+- **RAG Chatbot (Retrieval-Augmented Generation)** — Developed a custom chatbot leveraging LLMs and vector databases to provide context-aware answers from private datasets.  
+- **Multimodal AI Agent** — Built an intelligent agent capable of processing both text and image inputs for analysis, decision-making, and content generation tasks.  
 
 ---
 
@@ -41,6 +42,6 @@ My work centers on transforming raw data into insights that support strategic an
 
 ## 📫 Contact  
 
-- **GitHub:** [github.com/icefloqx](https://github.com/icefloqx)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-- **Email:** yourname@email.com  
+- **GitHub:** [github.com/icefloqx](https://github.com/Icefloqx)  
+- **LinkedIn:** [linkedin.com/in/brian-gichuki-icefloqx]
+- **Email:** icefloqxbrian@gmail.com 
