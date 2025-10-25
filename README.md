@@ -35,8 +35,8 @@ My work centers on transforming raw data into insights that support strategic an
 
 ## 🎓 Education & Continuous Learning  
 
-- Self-directed learning in advanced ML, deep learning, and data engineering practices.  
-- Actively exploring data-driven policy, sustainability, and energy analytics projects.  
+- Self-directed learning in advanced ML and deep learning.  
+- Actively exploring data-driven policy, sustainability, and energy analytics projects or any type of projects.  
 
 ---
 
@@ -44,4 +44,4 @@ My work centers on transforming raw data into insights that support strategic an
 
 - **GitHub:** [github.com/icefloqx](https://github.com/Icefloqx)  
 - **LinkedIn:** [linkedin.com/in/brian-gichuki-icefloqx]
-- **Email:** icefloqxbrian@gmail.com 
+- **Email:** [icefloqxbrian@gmail.com]
